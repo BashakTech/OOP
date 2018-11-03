@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 class Teacher{
 	String designation ="Lecturer in CSE";
 	String organization ="SciFiSoft";
@@ -46,3 +38,5 @@ public class OOPs extends Teacher{
 	}
 
 } 
+
+//edited by Chandan
